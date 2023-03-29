@@ -243,7 +243,7 @@ void dama_calc (dama_t * dama, u32_t pl)
   for (i = 0 ; i < N_ROWS ; ++i) {
     for (j = 0 ; j < N_COLS ; ++j) {
       if (dama_getchr(dama, i, j) == pl) {
-        fprintf(stderr, "(%u:%c) `%c`:\n", N_ROWS - i, 'A' + j, pl) ;
+        // fprintf(stderr, "(%u:%c) `%c`:\n", N_ROWS - i, 'A' + j, pl) ;
 
         int chr ;
 
