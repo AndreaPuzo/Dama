@@ -1,2 +1,3 @@
 # Dama
-Simple Dama game engine that allows you to compute the pieces that can eat
+Inspired by the attempt of my colleague Giacomo Bardasi.
+Simple Dama game engine that allows you to identify the pieces that can eat.
